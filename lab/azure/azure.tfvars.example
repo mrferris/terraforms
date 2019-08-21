@@ -1,0 +1,21 @@
+#################
+## Required
+#################
+
+## See README.md for instructions on finding credential values.
+azure_client_id = ""
+azure_client_secret = ""
+azure_tenant_id  = ""
+azure_subscription_id  = ""
+
+azure_network_name = "genesis-lab"
+azure_resource_group_name = "gensis-lab"
+azure_public_key  = "ssh-rsa AAAAA...."
+azure_private_key_file  = "/path/to/your/privateKey.pem"
+
+azure_region     = "East US"
+
+################
+## Optional
+################
+# network      = "10.4"
